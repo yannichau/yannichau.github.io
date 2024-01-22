@@ -10,7 +10,7 @@
         }
 
         redirect = () => {
-            fetch('https://yannichau.i234.me').then(response => {
+            fetch('https://yannichau.i234.me/wp-json/wp/v2/woodpost?per_page=100&_embed&_fields=featured_media_src_url,featured_media,excerpt,title,acf').then(response => {
                 console.log(response)
                 if (response.status === 401) {
                     catchError(response);
