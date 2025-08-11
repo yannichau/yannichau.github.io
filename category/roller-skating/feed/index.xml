@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Roller Skating &#8211; cluelessyanni</title>
+	<atom:link href="/category/roller-skating/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 Jan 2024 21:45:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>Bath on Skates!</title>
+		<link>/783</link>
+					<comments>/783#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Tue, 03 May 2022 21:27:00 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Roller Skating]]></category>
+		<category><![CDATA[bath]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=783</guid>
+
+					<description><![CDATA[The thing that defines British weather is its high unpredic&#8230;]]></description>
+										<content:encoded><![CDATA[The thing that defines British weather is its high unpredic&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>/783/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

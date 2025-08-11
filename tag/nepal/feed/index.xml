@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nepal &#8211; cluelessyanni</title>
+	<atom:link href="/tag/nepal/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Dec 2024 22:27:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>Photopoems 4: A sun, clouds, hills and a bridge of thoughts</title>
+		<link>/2252</link>
+					<comments>/2252#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Sat, 13 Jul 2024 21:42:24 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Photopoems]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[annapurna]]></category>
+		<category><![CDATA[nepal]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[photopoems]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=2252</guid>
+
+					<description><![CDATA[The Sun
+
+
+
+Like a timid introvertHiding behind the mountainsG&#8230;]]></description>
+										<content:encoded><![CDATA[The Sun
+
+
+
+Like a timid introvertHiding behind the mountainsG&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>/2252/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
