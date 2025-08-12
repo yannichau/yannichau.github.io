@@ -7,11 +7,13 @@
 	>
 <channel>
 	<title>
-	Comments on: Solo Travelling: A Double Edged Sword?	</title>
+	<br />
+<b>Warning</b>:  Attempt to read property "ID" on null in <b>C:\Users\yanni\Local Sites\yanni-test-local-wp-newdb\app\public\wp-content\plugins\hide-page-and-post-title\hide-page-and-post-title.php</b> on line <b>33</b><br />
+Comments on: 	</title>
 	<atom:link href="/756/feed" rel="self" type="application/rss+xml" />
-	<link>/756</link>
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Jan 2024 22:29:50 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Feb 2025 14:22:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
