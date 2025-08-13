@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>solo-travel &#8211; cluelessyanni</title>
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/solo-travel/feed" rel="self" type="application/rss+xml" />
+	<link>http://yanni-test-local-wp-newdb.local</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jan 2024 21:08:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>Going solo means going for solo&#8217;s</title>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/04/708</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2022/02/04/708#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 21:07:00 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[bath]]></category>
+		<category><![CDATA[solo-travel]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=708</guid>
+
+					<description><![CDATA[The best thing about travelling solo is that you have all the&#8230;]]></description>
+										<content:encoded><![CDATA[The best thing about travelling solo is that you have all the&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2022/02/04/708/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

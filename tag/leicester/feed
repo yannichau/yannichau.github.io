@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>leicester &#8211; cluelessyanni</title>
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/leicester/feed" rel="self" type="application/rss+xml" />
+	<link>http://yanni-test-local-wp-newdb.local</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Dec 2024 22:42:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>Photopoems 2: Alight</title>
+		<link>http://yanni-test-local-wp-newdb.local/2024/07/01/2257</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2024/07/01/2257#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 21:37:41 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Photopoems]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[gcr]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[kagoshima]]></category>
+		<category><![CDATA[leicester]]></category>
+		<category><![CDATA[loughborough]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[photopoems]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=2257</guid>
+
+					<description><![CDATA[Half Caste
+
+
+
+
+
+Leaving at aurorahe starts his half-caste dayha&#8230;]]></description>
+										<content:encoded><![CDATA[Half Caste
+
+
+
+
+
+Leaving at aurorahe starts his half-caste dayha&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/07/01/2257/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

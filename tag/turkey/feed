@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>turkey &#8211; cluelessyanni</title>
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/turkey/feed" rel="self" type="application/rss+xml" />
+	<link>http://yanni-test-local-wp-newdb.local</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Feb 2025 14:22:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>土耳其旅行筆記 （下）</title>
+		<link>http://yanni-test-local-wp-newdb.local/2024/12/20/2342</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2024/12/20/2342#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 14:25:56 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[cappadocia]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[turkey]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=2342</guid>
+
+					<description><![CDATA[在伊斯坦堡最後一晚，Lincoln和我道別Matt以後就踏上臥鋪火車前往安卡拉 Ankara ，繼續我們&#8230;]]></description>
+										<content:encoded><![CDATA[在伊斯坦堡最後一晚，Lincoln和我道別Matt以後就踏上臥鋪火車前往安卡拉 Ankara ，繼續我們&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/12/20/2342/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>土耳其旅行筆記 （上）</title>
+		<link>http://yanni-test-local-wp-newdb.local/2024/12/19/2289</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2024/12/19/2289#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 22:59:12 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[istanbul]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[turkey]]></category>
+		<guid isPermaLink="false">//yanni-test-local-wp-newdb.local/?p=2289</guid>
+
+					<description><![CDATA[在我狹窄的世界觀中，中東和西亞一直對我來説是個模糊的概念；既不是英國的鄰居，又不是西歐或西方媒體會經&#8230;]]></description>
+										<content:encoded><![CDATA[在我狹窄的世界觀中，中東和西亞一直對我來説是個模糊的概念；既不是英國的鄰居，又不是西歐或西方媒體會經&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/12/19/2289/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

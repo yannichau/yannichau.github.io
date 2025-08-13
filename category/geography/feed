@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Geography &#8211; cluelessyanni</title>
+	<atom:link href="http://yanni-test-local-wp-newdb.local/category/geography/feed" rel="self" type="application/rss+xml" />
+	<link>http://yanni-test-local-wp-newdb.local</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 Jan 2024 22:22:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>What is Sustainability?</title>
+		<link>http://yanni-test-local-wp-newdb.local/2021/08/04/891</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2021/08/04/891#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Wed, 04 Aug 2021 22:20:00 +0000</pubDate>
+				<category><![CDATA[Geography]]></category>
+		<category><![CDATA[geography]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=891</guid>
+
+					<description><![CDATA[Photo by Kelly Lacy from Pexels
+
+
+
+According to the UN Commissi&#8230;]]></description>
+										<content:encoded><![CDATA[Photo by Kelly Lacy from Pexels
+
+
+
+According to the UN Commissi&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2021/08/04/891/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Urban Microclimates &#8211; how have our activities changed them?</title>
+		<link>http://yanni-test-local-wp-newdb.local/2018/11/25/374</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2018/11/25/374#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Sun, 25 Nov 2018 10:27:15 +0000</pubDate>
+				<category><![CDATA[Geography]]></category>
+		<category><![CDATA[geography]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<category><![CDATA[ib]]></category>
+		<category><![CDATA[london]]></category>
+		<guid isPermaLink="false">http://yanni-test-localwp.local/?p=374</guid>
+
+					<description><![CDATA[Urban microclimates refer to the small variations in weath&#8230;]]></description>
+										<content:encoded><![CDATA[Urban microclimates refer to the small variations in weath&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2018/11/25/374/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

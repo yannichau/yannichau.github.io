@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cambridge &#8211; cluelessyanni</title>
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/cambridge/feed" rel="self" type="application/rss+xml" />
+	<link>http://yanni-test-local-wp-newdb.local</link>
+	<description></description>
+	<lastBuildDate>Sat, 27 Jan 2024 10:36:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>再別康橋 // Goodbye again, Cambridge</title>
+		<link>http://yanni-test-local-wp-newdb.local/2021/10/08/839</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2021/10/08/839#respond</comments>
+		
+		<dc:creator><![CDATA[yannichau]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2021 22:07:00 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[cambridge]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://yannichau.i234.me/?p=839</guid>
+
+					<description><![CDATA[“Goodbye again, Cambridge” is a poem by a modern Chinese poe&#8230;]]></description>
+										<content:encoded><![CDATA[“Goodbye again, Cambridge” is a poem by a modern Chinese poe&hellip;]]></content:encoded>
+					
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2021/10/08/839/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
