@@ -9,7 +9,7 @@
 
 <channel>
 	<title>leicester &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/leicester/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/leicester/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Mon, 16 Dec 2024 22:42:10 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Photopoems 2: Alight</title>
-		<link>http://yanni-test-local-wp-newdb.local/2024/07/01/2257</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2024/07/01/2257#respond</comments>
+		<link>http://yannichau.github.io/2024/07/01/2257</link>
+					<comments>http://yannichau.github.io/2024/07/01/2257#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Mon, 01 Jul 2024 21:37:41 +0000</pubDate>
@@ -53,7 +53,7 @@ Leaving at aurorahe starts his half-caste dayha&#8230;]]></description>
 
 Leaving at aurorahe starts his half-caste dayha&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/07/01/2257/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2024/07/01/2257/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

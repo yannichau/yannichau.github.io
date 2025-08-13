@@ -9,7 +9,7 @@
 
 <channel>
 	<title>interrail &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/interrail/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/interrail/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Fri, 02 Feb 2024 22:25:26 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Berlin: A quick tour of the city, and through the 20th century</title>
-		<link>http://yanni-test-local-wp-newdb.local/2023/09/05/675</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2023/09/05/675#respond</comments>
+		<link>http://yannichau.github.io/2023/09/05/675</link>
+					<comments>http://yannichau.github.io/2023/09/05/675#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Tue, 05 Sep 2023 20:27:23 +0000</pubDate>
@@ -35,7 +35,7 @@
 					<description><![CDATA[The content of this piece is a voice-dictated script origin&#8230;]]></description>
 										<content:encoded><![CDATA[The content of this piece is a voice-dictated script origin&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2023/09/05/675/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2023/09/05/675/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

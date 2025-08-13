@@ -9,7 +9,7 @@
 
 <channel>
 	<title>square &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/square/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/square/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Fri, 02 Feb 2024 22:22:04 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Shot on iPhone*</title>
-		<link>http://yanni-test-local-wp-newdb.local/2022/06/12/325</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2022/06/12/325#respond</comments>
+		<link>http://yannichau.github.io/2022/06/12/325</link>
+					<comments>http://yannichau.github.io/2022/06/12/325#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sun, 12 Jun 2022 08:19:29 +0000</pubDate>
@@ -107,7 +107,7 @@ Barbican
 
 Not only because Su&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2022/06/12/325/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2022/06/12/325/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

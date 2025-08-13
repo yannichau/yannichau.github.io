@@ -9,7 +9,7 @@
 
 <channel>
 	<title>cambridge &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/cambridge/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/cambridge/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 Jan 2024 10:36:35 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>再別康橋 // Goodbye again, Cambridge</title>
-		<link>http://yanni-test-local-wp-newdb.local/2021/10/08/839</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2021/10/08/839#respond</comments>
+		<link>http://yannichau.github.io/2021/10/08/839</link>
+					<comments>http://yannichau.github.io/2021/10/08/839#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 08 Oct 2021 22:07:00 +0000</pubDate>
@@ -36,7 +36,7 @@
 					<description><![CDATA[“Goodbye again, Cambridge” is a poem by a modern Chinese poe&#8230;]]></description>
 										<content:encoded><![CDATA[“Goodbye again, Cambridge” is a poem by a modern Chinese poe&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2021/10/08/839/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2021/10/08/839/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

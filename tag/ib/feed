@@ -9,7 +9,7 @@
 
 <channel>
 	<title>ib &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/ib/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/ib/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Wed, 24 Jan 2024 21:17:38 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Urban Microclimates &#8211; how have our activities changed them?</title>
-		<link>http://yanni-test-local-wp-newdb.local/2018/11/25/374</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2018/11/25/374#respond</comments>
+		<link>http://yannichau.github.io/2018/11/25/374</link>
+					<comments>http://yannichau.github.io/2018/11/25/374#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sun, 25 Nov 2018 10:27:15 +0000</pubDate>
@@ -36,7 +36,7 @@
 					<description><![CDATA[Urban microclimates refer to the small variations in weath&#8230;]]></description>
 										<content:encoded><![CDATA[Urban microclimates refer to the small variations in weath&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2018/11/25/374/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2018/11/25/374/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

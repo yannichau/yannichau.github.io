@@ -9,7 +9,7 @@
 
 <channel>
 	<title>journal &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/journal/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/journal/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Thu, 25 Jan 2024 21:26:09 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>維他奶 // Baptism Testimony</title>
-		<link>http://yanni-test-local-wp-newdb.local/2023/12/09/196</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2023/12/09/196#respond</comments>
+		<link>http://yannichau.github.io/2023/12/09/196</link>
+					<comments>http://yannichau.github.io/2023/12/09/196#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sat, 09 Dec 2023 22:09:50 +0000</pubDate>
@@ -34,7 +34,7 @@
 					<description><![CDATA[我於二零二二年十二月十日受浸，見證我接受耶穌基督坐我生命的救主。我除了當天在倫敦中華基督教會台上公開&#8230;]]></description>
 										<content:encoded><![CDATA[我於二零二二年十二月十日受浸，見證我接受耶穌基督坐我生命的救主。我除了當天在倫敦中華基督教會台上公開&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2023/12/09/196/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2023/12/09/196/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

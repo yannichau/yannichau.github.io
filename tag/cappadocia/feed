@@ -9,7 +9,7 @@
 
 <channel>
 	<title>cappadocia &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/cappadocia/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/cappadocia/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Feb 2025 14:22:04 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>土耳其旅行筆記 （下）</title>
-		<link>http://yanni-test-local-wp-newdb.local/2024/12/20/2342</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2024/12/20/2342#respond</comments>
+		<link>http://yannichau.github.io/2024/12/20/2342</link>
+					<comments>http://yannichau.github.io/2024/12/20/2342#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 20 Dec 2024 14:25:56 +0000</pubDate>
@@ -37,7 +37,7 @@
 					<description><![CDATA[在伊斯坦堡最後一晚，Lincoln和我道別Matt以後就踏上臥鋪火車前往安卡拉 Ankara ，繼續我們&#8230;]]></description>
 										<content:encoded><![CDATA[在伊斯坦堡最後一晚，Lincoln和我道別Matt以後就踏上臥鋪火車前往安卡拉 Ankara ，繼續我們&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/12/20/2342/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2024/12/20/2342/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

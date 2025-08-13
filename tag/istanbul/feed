@@ -9,7 +9,7 @@
 
 <channel>
 	<title>istanbul &#8211; cluelessyanni</title>
-	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/istanbul/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yannichau.github.io/tag/istanbul/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Sun, 12 Jan 2025 22:25:15 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>土耳其旅行筆記 （上）</title>
-		<link>http://yanni-test-local-wp-newdb.local/2024/12/19/2289</link>
-					<comments>http://yanni-test-local-wp-newdb.local/2024/12/19/2289#respond</comments>
+		<link>http://yannichau.github.io/2024/12/19/2289</link>
+					<comments>http://yannichau.github.io/2024/12/19/2289#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Thu, 19 Dec 2024 22:59:12 +0000</pubDate>
@@ -37,7 +37,7 @@
 					<description><![CDATA[在我狹窄的世界觀中，中東和西亞一直對我來説是個模糊的概念；既不是英國的鄰居，又不是西歐或西方媒體會經&#8230;]]></description>
 										<content:encoded><![CDATA[在我狹窄的世界觀中，中東和西亞一直對我來説是個模糊的概念；既不是英國的鄰居，又不是西歐或西方媒體會經&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/12/19/2289/feed</wfw:commentRss>
+					<wfw:commentRss>http://yannichau.github.io/2024/12/19/2289/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
