@@ -9,10 +9,10 @@
 
 <channel>
 	<title>hong kong &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/tag/hong-kong/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/hong-kong/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Dec 2024 22:42:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 21:38:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,7 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Photopoems 3: Hong Kong Calling</title>
-		<link>http://yannichau.github.io/2024/07/06/2254</link>
-					<comments>http://yannichau.github.io/2024/07/06/2254#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/07/06/2254</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sat, 06 Jul 2024 10:06:06 +0000</pubDate>
@@ -45,15 +44,12 @@ In stagnance I unseathedFrom my she&#8230;]]></description>
 
 In stagnance I unseathedFrom my she&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/07/06/2254/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Experiment: Lights, Camera, Action!</title>
-		<link>http://yannichau.github.io/2024/04/04/2177</link>
-					<comments>http://yannichau.github.io/2024/04/04/2177#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/04/04/2177</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Thu, 04 Apr 2024 19:53:50 +0000</pubDate>
@@ -67,15 +63,13 @@ In stagnance I unseathedFrom my she&hellip;]]></content:encoded>
 					<description><![CDATA[If you are viewing this on medium, I&#8217;d like to invite y&#8230;]]></description>
 										<content:encoded><![CDATA[If you are viewing this on medium, I&#8217;d like to invite y&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/04/04/2177/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Urban Microclimates &#8211; how have our activities changed them?</title>
-		<link>http://yannichau.github.io/2018/11/25/374</link>
-					<comments>http://yannichau.github.io/2018/11/25/374#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2018/11/25/374</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2018/11/25/374#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sun, 25 Nov 2018 10:27:15 +0000</pubDate>
@@ -89,7 +83,7 @@ In stagnance I unseathedFrom my she&hellip;]]></content:encoded>
 					<description><![CDATA[Urban microclimates refer to the small variations in weath&#8230;]]></description>
 										<content:encoded><![CDATA[Urban microclimates refer to the small variations in weath&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2018/11/25/374/feed</wfw:commentRss>
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2018/11/25/374/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

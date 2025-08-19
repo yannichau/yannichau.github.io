@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Photopoems &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/category/photopoems/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/category/photopoems/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Dec 2024 22:42:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Aug 2025 08:17:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,7 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Photopoems 4: A sun, clouds, hills and a bridge of thoughts</title>
-		<link>http://yannichau.github.io/2024/07/13/2252</link>
-					<comments>http://yannichau.github.io/2024/07/13/2252#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/07/13/2252</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sat, 13 Jul 2024 21:42:24 +0000</pubDate>
@@ -47,15 +46,12 @@ Like a timid introvertHiding behind the mountainsG&#8230;]]></description>
 
 Like a timid introvertHiding behind the mountainsG&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/07/13/2252/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photopoems 3: Hong Kong Calling</title>
-		<link>http://yannichau.github.io/2024/07/06/2254</link>
-					<comments>http://yannichau.github.io/2024/07/06/2254#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/07/06/2254</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sat, 06 Jul 2024 10:06:06 +0000</pubDate>
@@ -78,15 +74,12 @@ In stagnance I unseathedFrom my she&#8230;]]></description>
 
 In stagnance I unseathedFrom my she&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/07/06/2254/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photopoems 2: Alight</title>
-		<link>http://yannichau.github.io/2024/07/01/2257</link>
-					<comments>http://yannichau.github.io/2024/07/01/2257#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/07/01/2257</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Mon, 01 Jul 2024 21:37:41 +0000</pubDate>
@@ -117,15 +110,13 @@ Leaving at aurorahe starts his half-caste dayha&#8230;]]></description>
 
 Leaving at aurorahe starts his half-caste dayha&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/07/01/2257/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photopoems: Replay</title>
-		<link>http://yannichau.github.io/2024/06/25/2233</link>
-					<comments>http://yannichau.github.io/2024/06/25/2233#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/06/25/2233</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2024/06/25/2233#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Tue, 25 Jun 2024 20:04:42 +0000</pubDate>
@@ -149,7 +140,7 @@ C loud that drifts freelyI n the azureR ising a&#8230;]]></description>
 
 C loud that drifts freelyI n the azureR ising a&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/06/25/2233/feed</wfw:commentRss>
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/06/25/2233/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

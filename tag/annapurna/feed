@@ -9,10 +9,10 @@
 
 <channel>
 	<title>annapurna &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/tag/annapurna/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/annapurna/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Dec 2024 22:27:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 21:38:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,7 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Photopoems 4: A sun, clouds, hills and a bridge of thoughts</title>
-		<link>http://yannichau.github.io/2024/07/13/2252</link>
-					<comments>http://yannichau.github.io/2024/07/13/2252#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/07/13/2252</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sat, 13 Jul 2024 21:42:24 +0000</pubDate>
@@ -47,8 +46,6 @@ Like a timid introvertHiding behind the mountainsG&#8230;]]></description>
 
 Like a timid introvertHiding behind the mountainsG&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/07/13/2252/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

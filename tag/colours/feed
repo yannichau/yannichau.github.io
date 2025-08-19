@@ -9,10 +9,10 @@
 
 <channel>
 	<title>colours &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/tag/colours/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/colours/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Dec 2024 22:41:55 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Aug 2025 08:17:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Photopoems: Replay</title>
-		<link>http://yannichau.github.io/2024/06/25/2233</link>
-					<comments>http://yannichau.github.io/2024/06/25/2233#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2024/06/25/2233</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2024/06/25/2233#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Tue, 25 Jun 2024 20:04:42 +0000</pubDate>
@@ -46,7 +46,7 @@ C loud that drifts freelyI n the azureR ising a&#8230;]]></description>
 
 C loud that drifts freelyI n the azureR ising a&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2024/06/25/2233/feed</wfw:commentRss>
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2024/06/25/2233/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

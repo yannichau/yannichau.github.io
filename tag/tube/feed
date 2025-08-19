@@ -9,10 +9,10 @@
 
 <channel>
 	<title>tube &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/tag/tube/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/tube/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Jan 2024 22:09:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 21:38:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,7 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Chasing trains chasing by</title>
-		<link>http://yannichau.github.io/2020/03/21/1163</link>
-					<comments>http://yannichau.github.io/2020/03/21/1163#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2020/03/21/1163</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Sat, 21 Mar 2020 19:03:00 +0000</pubDate>
@@ -38,8 +37,6 @@
 					<description><![CDATA[Before I start my usual train-spotting related content, I j&#8230;]]></description>
 										<content:encoded><![CDATA[Before I start my usual train-spotting related content, I j&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2020/03/21/1163/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

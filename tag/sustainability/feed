@@ -9,7 +9,7 @@
 
 <channel>
 	<title>sustainability &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/tag/sustainability/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/sustainability/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
 	<lastBuildDate>Thu, 25 Jan 2024 22:22:58 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>What is Sustainability?</title>
-		<link>http://yannichau.github.io/2021/08/04/891</link>
-					<comments>http://yannichau.github.io/2021/08/04/891#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2021/08/04/891</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2021/08/04/891#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Wed, 04 Aug 2021 22:20:00 +0000</pubDate>
@@ -42,7 +42,7 @@ According to the UN Commissi&#8230;]]></description>
 
 According to the UN Commissi&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2021/08/04/891/feed</wfw:commentRss>
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2021/08/04/891/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

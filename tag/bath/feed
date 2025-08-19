@@ -9,10 +9,10 @@
 
 <channel>
 	<title>bath &#8211; cluelessyanni</title>
-	<atom:link href="http://yannichau.github.io/tag/bath/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yanni-test-local-wp-newdb.local/tag/bath/feed" rel="self" type="application/rss+xml" />
 	<link>http://yanni-test-local-wp-newdb.local</link>
 	<description></description>
-	<lastBuildDate>Thu, 25 Jan 2024 21:45:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 21:38:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,7 @@
 	<generator>https://wordpress.org/?v=6.8.2</generator>
 	<item>
 		<title>Bath on Skates!</title>
-		<link>http://yannichau.github.io/2022/05/03/783</link>
-					<comments>http://yannichau.github.io/2022/05/03/783#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/05/03/783</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Tue, 03 May 2022 21:27:00 +0000</pubDate>
@@ -35,15 +34,12 @@
 					<description><![CDATA[The thing that defines British weather is its high unpredic&#8230;]]></description>
 										<content:encoded><![CDATA[The thing that defines British weather is its high unpredic&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/05/03/783/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bath: More than homeless?</title>
-		<link>http://yannichau.github.io/2022/03/04/760</link>
-					<comments>http://yannichau.github.io/2022/03/04/760#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/03/04/760</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 04 Mar 2022 21:01:00 +0000</pubDate>
@@ -57,15 +53,13 @@
 					<description><![CDATA[I was initially very bummed that there were little to no resi&#8230;]]></description>
 										<content:encoded><![CDATA[I was initially very bummed that there were little to no resi&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/03/04/760/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Solo Travelling: A Double Edged Sword?</title>
-		<link>http://yannichau.github.io/2022/02/25/756</link>
-					<comments>http://yannichau.github.io/2022/02/25/756#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/25/756</link>
+					<comments>http://yanni-test-local-wp-newdb.local/2022/02/25/756#respond</comments>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 22:26:00 +0000</pubDate>
@@ -102,15 +96,14 @@ Finding the Right Pace
 
 I met Riya while h&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/02/25/756/feed</wfw:commentRss>
+					<wfw:commentRss>http://yanni-test-local-wp-newdb.local/2022/02/25/756/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Contemporary Persuasion 4: Juicier Stuff</title>
-		<link>http://yannichau.github.io/2022/02/11/745</link>
-					<comments>http://yannichau.github.io/2022/02/11/745#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/11/745</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 11 Feb 2022 22:09:00 +0000</pubDate>
@@ -148,15 +141,12 @@ Home sweet home, London
 
 I think so&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/02/11/745/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Contemporary Persuasion 3: Primark, M&#038;S and H&#038;M</title>
-		<link>http://yannichau.github.io/2022/02/11/737</link>
-					<comments>http://yannichau.github.io/2022/02/11/737#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/11/737</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 11 Feb 2022 21:48:00 +0000</pubDate>
@@ -178,15 +168,12 @@ Primark, M&#38;S and H&#38;M&#8230;]]></description>
 
 Primark, M&amp;S and H&amp;M&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/02/11/737/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Contemporary Persuasion 2: Tea + 9999 Steps + Reflections</title>
-		<link>http://yannichau.github.io/2022/02/11/725</link>
-					<comments>http://yannichau.github.io/2022/02/11/725#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/11/725</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 11 Feb 2022 21:29:00 +0000</pubDate>
@@ -224,15 +211,12 @@ Good morning
 
 It was nine o’ clock. Got&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/02/11/725/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Contemporary Persuasion 1: A quick but succinct burn</title>
-		<link>http://yannichau.github.io/2022/02/04/718</link>
-					<comments>http://yannichau.github.io/2022/02/04/718#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/04/718</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 04 Feb 2022 21:19:00 +0000</pubDate>
@@ -244,15 +228,12 @@ It was nine o’ clock. Got&hellip;]]></content:encoded>
 					<description><![CDATA[his is a painstakingly long journal, disguised as a cute pho&#8230;]]></description>
 										<content:encoded><![CDATA[his is a painstakingly long journal, disguised as a cute pho&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/02/04/718/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Going solo means going for solo&#8217;s</title>
-		<link>http://yannichau.github.io/2022/02/04/708</link>
-					<comments>http://yannichau.github.io/2022/02/04/708#respond</comments>
+		<link>http://yanni-test-local-wp-newdb.local/2022/02/04/708</link>
 		
 		<dc:creator><![CDATA[yannichau]]></dc:creator>
 		<pubDate>Fri, 04 Feb 2022 21:07:00 +0000</pubDate>
@@ -266,8 +247,6 @@ It was nine o’ clock. Got&hellip;]]></content:encoded>
 					<description><![CDATA[The best thing about travelling solo is that you have all the&#8230;]]></description>
 										<content:encoded><![CDATA[The best thing about travelling solo is that you have all the&hellip;]]></content:encoded>
 					
-					<wfw:commentRss>http://yannichau.github.io/2022/02/04/708/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
